@@ -11,7 +11,7 @@
 
 <br />
 
----
+<!-- ---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -29,4 +29,4 @@
 
 [twitter]: https://twitter.com/maks_kalashnyk
 [instagram]: https://instagram.com/mx_kalash
-[linkedin]: https://www.linkedin.com/in/maksym-kalashnyk-92932399/
+[linkedin]: https://www.linkedin.com/in/maksym-kalashnyk-92932399/ -->
