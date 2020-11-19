@@ -25,8 +25,8 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/m6ingigp155qelddj9r64nqy6)
-
+-->
 
 [twitter]: https://twitter.com/maks_kalashnyk
 [instagram]: https://instagram.com/mx_kalash
-[linkedin]: https://www.linkedin.com/in/maksym-kalashnyk-92932399/ -->
+[linkedin]: https://www.linkedin.com/in/maksym-kalashnyk-92932399/
