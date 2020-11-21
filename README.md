@@ -42,15 +42,16 @@
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-  <img align="left" alt="MaxKalashnyk's GitHub Stats" src="https://github-readme-stats.maxkalashnyk.vercel.app/api?username=MaxKalashnyk&show_icons=true&hide_border=true" />
+  <img alt="MaxKalashnyk's GitHub Stats" src="https://github-readme-stats.maxkalashnyk.vercel.app/api?username=MaxKalashnyk&show_icons=true&hide_border=true" />
 
 </details>
+
+---
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 </details>
 
