@@ -24,8 +24,6 @@
 
 ![Top Langs](https://github-readme-stats.maxkalashnyk.vercel.app/api/top-langs/?username=MaxKalashnyk&layout=compact)
 
-<br />
-
 ---
 
 ### Connect with me
@@ -59,7 +57,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="MaxKalashnyk Spotify Playing" width="350" />](https://open.spotify.com/user/m6ingigp155qelddj9r64nqy6)
+[![Spotify](https://novatorem.maxkalashnyk.vercel.app/api/spotify)](https://open.spotify.com/user/m6ingigp155qelddj9r64nqy6)
 
 [twitter]: https://twitter.com/maks_kalashnyk
 [facebook]: https://www.facebook.com/mkalashnyk/
