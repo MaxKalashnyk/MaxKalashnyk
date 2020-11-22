@@ -50,8 +50,8 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#317](https://github.com/kottans/frontend/pull/317) in [kottans/frontend](https://github.com/kottans/frontend)
-2. ❌ Closed PR [#317](https://github.com/kottans/frontend/pull/317) in [kottans/frontend](https://github.com/kottans/frontend)
+1. 🎉 Merged PR [#112](https://github.com/kottans/frontend-2021-homeworks/pull/112) in [kottans/frontend-2021-homeworks](https://github.com/kottans/frontend-2021-homeworks)
+2. ❌ Reopened PR [#317](https://github.com/kottans/frontend/pull/317) in [kottans/frontend](https://github.com/kottans/frontend)
 <!--END_SECTION:activity-->
 
 </details>
