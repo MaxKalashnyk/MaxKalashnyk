@@ -50,8 +50,8 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#162](https://github.com/kottans/frontend-2021-homeworks/pull/162) in [kottans/frontend-2021-homeworks](https://github.com/kottans/frontend-2021-homeworks)
-2. 🎉 Merged PR [#144](https://github.com/kottans/frontend-2021-homeworks/pull/144) in [kottans/frontend-2021-homeworks](https://github.com/kottans/frontend-2021-homeworks)
+1. 🎉 Merged PR [#145](https://github.com/kottans/frontend-2021-homeworks/pull/145) in [kottans/frontend-2021-homeworks](https://github.com/kottans/frontend-2021-homeworks)
+2. 🎉 Merged PR [#162](https://github.com/kottans/frontend-2021-homeworks/pull/162) in [kottans/frontend-2021-homeworks](https://github.com/kottans/frontend-2021-homeworks)
 <!--END_SECTION:activity-->
 
 </details>
