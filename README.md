@@ -50,7 +50,7 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#197](https://github.com/kottans/frontend-2021-homeworks/issues/197) in [kottans/frontend-2021-homeworks](https://github.com/kottans/frontend-2021-homeworks)
+1. 🎉 Merged PR [#154](https://github.com/kottans/frontend-2021-homeworks/pull/154) in [kottans/frontend-2021-homeworks](https://github.com/kottans/frontend-2021-homeworks)
 2. 🗣 Commented on [#197](https://github.com/kottans/frontend-2021-homeworks/issues/197) in [kottans/frontend-2021-homeworks](https://github.com/kottans/frontend-2021-homeworks)
 <!--END_SECTION:activity-->
 
