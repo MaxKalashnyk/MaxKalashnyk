@@ -50,11 +50,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#154](https://github.com/kottans/frontend-2021-homeworks/pull/154) in [kottans/frontend-2021-homeworks](https://github.com/kottans/frontend-2021-homeworks)
-2. 🗣 Commented on [#197](https://github.com/kottans/frontend-2021-homeworks/issues/197) in [kottans/frontend-2021-homeworks](https://github.com/kottans/frontend-2021-homeworks)
+1. 🎉 Merged PR [#208](https://github.com/kottans/frontend-2021-homeworks/pull/208) in [kottans/frontend-2021-homeworks](https://github.com/kottans/frontend-2021-homeworks)
+2. 🎉 Merged PR [#154](https://github.com/kottans/frontend-2021-homeworks/pull/154) in [kottans/frontend-2021-homeworks](https://github.com/kottans/frontend-2021-homeworks)
 3. 🗣 Commented on [#197](https://github.com/kottans/frontend-2021-homeworks/issues/197) in [kottans/frontend-2021-homeworks](https://github.com/kottans/frontend-2021-homeworks)
-4. 🎉 Merged PR [#197](https://github.com/kottans/frontend-2021-homeworks/pull/197) in [kottans/frontend-2021-homeworks](https://github.com/kottans/frontend-2021-homeworks)
-5. 🎉 Merged PR [#191](https://github.com/kottans/frontend-2021-homeworks/pull/191) in [kottans/frontend-2021-homeworks](https://github.com/kottans/frontend-2021-homeworks)
+4. 🗣 Commented on [#197](https://github.com/kottans/frontend-2021-homeworks/issues/197) in [kottans/frontend-2021-homeworks](https://github.com/kottans/frontend-2021-homeworks)
+5. 🎉 Merged PR [#197](https://github.com/kottans/frontend-2021-homeworks/pull/197) in [kottans/frontend-2021-homeworks](https://github.com/kottans/frontend-2021-homeworks)
 <!--END_SECTION:activity-->
 
 </details>
