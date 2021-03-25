@@ -1,4 +1,4 @@
-### Hi there 👋, I'm frontend engineer from Kyiv.
+### Hi there 👋, I'm a frontend engineer from Kyiv.
 
 - 🧩 Currently work at [Uptech](https://uptech.team/)
 - 🐱 Mentor at [Kottans](https://kottans.org/)
