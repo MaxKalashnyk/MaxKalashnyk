@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm a frontend engineer from Kyiv.
 
 - 🧩 Currently work at [Uptech](https://uptech.team/)
-- 🐱 Kottan [Kottans](https://kottans.org/)
+- 🐱 Kottan in [Kottans](https://kottans.org/)
 - ⚽ Fond of football
 - ✈️ Addicted to travel
 - 🏕️ Love active rest
