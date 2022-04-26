@@ -1,3 +1,5 @@
+<code><div><a href="https://vshymanskyy.github.io/StandWithUkraine" rel="nofollow"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg" alt="Stand with Ukraine" style="max-width: 100%;"></a></div></code>
+
 ### Hi there 👋, I'm a frontend engineer from Kyiv.
 
 - 🧩 Currently work at [Uptech](https://uptech.team/)
