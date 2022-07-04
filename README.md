@@ -48,14 +48,6 @@
 
 ---
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-</details>
-
----
-
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.maxkalashnyk.vercel.app/api/spotify)](https://open.spotify.com/user/m6ingigp155qelddj9r64nqy6)
