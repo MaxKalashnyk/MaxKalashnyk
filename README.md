@@ -1,11 +1,6 @@
 <div><a href="https://vshymanskyy.github.io/StandWithUkraine" rel="nofollow"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg" alt="Stand with Ukraine" style="max-width: 100%;"></a></div>
 
-### Hi there 👋, I'm a frontend engineer from Kyiv.
-
-- ⚽ Fond of football
-- ✈️ Addicted to travel
-- 🏕️ Love active rest
-- ⚡ Fun fact: I like playing guitar and learn psychology
+### Hi there 👋, I'm a frontend engineer from Ukraine.
 
 ### Languages and Tools
 
