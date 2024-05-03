@@ -23,29 +23,8 @@
 
 ### Connect with me
 
-[<img align="left" alt="MaxKalashnyk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MaxKalashnyk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="MaxKalashnyk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MaxKalashnyk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
----
-
-<details>
-  <summary>⚡ GitHub Stats</summary>
-
-  <img alt="MaxKalashnyk's GitHub Stats" src="https://github-readme-stats.maxkalashnyk.vercel.app/api?username=MaxKalashnyk&show_icons=true&hide_border=true" />
-
-</details>
-
----
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.maxkalashnyk.vercel.app/api/spotify)](https://open.spotify.com/user/m6ingigp155qelddj9r64nqy6)
-
-[twitter]: https://twitter.com/maks_kalashnyk
-[facebook]: https://www.facebook.com/mkalashnyk/
-[instagram]: https://instagram.com/mx_kalash
 [linkedin]: https://www.linkedin.com/in/maksym-kalashnyk-92932399/
